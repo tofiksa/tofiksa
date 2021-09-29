@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+
 <!--
 **tofiksa/tofiksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
