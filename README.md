@@ -7,6 +7,7 @@
 - 🔭 I’m currently working for the Norwegian Public Service Pension Fund as a Java developer
 - 👯 I’m looking to collaborate on all sorts of cool open source projects in my spare time
 - 📫 How to reach me: tofiksa@gmail.com
+- 🌱 web3 [tofik.eth](https://tofik.eth.link)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tofiksa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" 
      />
